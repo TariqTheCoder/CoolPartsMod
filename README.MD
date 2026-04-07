@@ -1,5 +1,8 @@
-# **MoreParts Mod**
-_Add new parts and mechanics🚀_
+# **Cool Parts** for Spaceflight Simulator 1.6 and above
+
+An extension of the MoreParts Mod designed to add new parts and mechanics to Spaceflight Simulator.
+
+>Note: Only works on SFS 1.6 and above
 
 ## **About this mod**
 Moreparts adds new parts and mechanics to the game. Next, each improvement that this mod adds will be detailed as a tutorial.
