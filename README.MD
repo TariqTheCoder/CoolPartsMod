@@ -1,6 +1,6 @@
 # Cool Parts for Spaceflight Simulator 
 
-An enhancement of the MoreParts Mod n
+An enhancement of the MoreParts Mod
 by @dani1015 designed to add new parts and mechanics to Spaceflight Simulator. *The original mod does not work on the latest version of Spaceflight Simulator*
 
 >Note: Only works on SFS 1.6 and above
