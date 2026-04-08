@@ -34,7 +34,7 @@ namespace MorePartsMod.World
             {
                 int amount = rnd.Next(1000,3000);
                 float radians = currentAngle * Mathf.Deg2Rad;
-                double magnitude = this._planet.GetTerrainHeightAtAngle(radians);
+                double magnitude = this._planet.GetTerrainHeightAtAngle(radians, false);
                 float x = Mathf.Cos(radians);
                 float y = Mathf.Sin(radians);
                 Double2 position = new Double2(x, y)*(magnitude+this._planet.Radius);
