@@ -1,0 +1,8 @@
+{
+    "format_on_save": "on",
+    "disable_ai": true,
+    "tab_size": 4,
+    "hard_tabs": false,
+    "soft_wrap": "preferred_line_length",
+    "preferred_line_length": 65,
+}
