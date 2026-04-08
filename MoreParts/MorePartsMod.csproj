@@ -146,7 +146,6 @@
 		<Compile Include="ColonyBuildingFactory.cs" />
 	</ItemGroup>
 	<Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-
 	<!-- After build copy dll file into managed folder and start the game -->
 	<Target Name="PostBuildEvent">
 		<Message Text="Update pack file with new dll"/>

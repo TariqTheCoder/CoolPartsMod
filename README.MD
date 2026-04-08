@@ -1,8 +1,12 @@
-# **MoreParts Mod**
-_Add new parts and mechanics🚀_
+# Cool Parts for Spaceflight Simulator 
+
+An enhancement of the MoreParts Mod
+by @dani1015 designed to add new parts and mechanics to Spaceflight Simulator. *The original mod does not work on the latest version of Spaceflight Simulator*
+
+>Note: Only works on SFS 1.6 and above
 
 ## **About this mod**
-Moreparts adds new parts and mechanics to the game. Next, each improvement that this mod adds will be detailed as a tutorial.
+Cool Parts Mod adds new parts and mechanics to the game. Next, each improvement that this mod adds will be detailed as a tutorial.
 
 ### **Colonies👩‍🚀👨‍🚀**
 `Colonies` are new buildings made up of different buildings that add benefits to the player and that you can create on any planet in the solar system (except Earth). To build each building, you will need to deposit resources by pressing the `J` key near the colony to deposit resources. Now each building is detailed below:
